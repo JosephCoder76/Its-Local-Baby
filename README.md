@@ -1,5 +1,7 @@
 # Its-Local-Baby
 A local repository for training on git and its associated commands
+
+
 echo "# Its-Local-Baby" >> README.md
 git init
 git add README.md
